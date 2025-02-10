@@ -1,0 +1,1 @@
+TO design and verify the AHB to APB bridge that allows communication between components operating on the AHB and those on the APB.This bridge essentially converts the signals and protocols between two buse enabling communication between high speed components and low speed peripherals
